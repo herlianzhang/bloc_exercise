@@ -1,5 +1,5 @@
-import 'package:learn_bloc/bloc/app_init_event.dart';
-import 'package:learn_bloc/bloc/app_init_state.dart';
+import 'package:learn_bloc/bloc/case1/app_init_event.dart';
+import 'package:learn_bloc/bloc/case1/app_init_state.dart';
 import 'package:learn_bloc/bloc/helper/bloc_event_state.dart';
 
 class ApplicationInitializationBloc extends BlocEventStateBase<
